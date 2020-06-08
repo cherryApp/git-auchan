@@ -3,3 +3,6 @@ Git course for Auchan employees.
 
 ## Git Config
 - `git config --list` beállítások listázása.
+
+## Teszt DA 
+- tezstelem a git status parancsot és a commit parancsot 
