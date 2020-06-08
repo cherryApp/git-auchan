@@ -105,3 +105,5 @@ stash -pull - stash apply- add -commit -push
 - teszt a commit parancsra
 - teszt git add .
 - teszt git push 
+
+credential.helper
