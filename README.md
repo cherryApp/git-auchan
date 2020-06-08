@@ -100,3 +100,8 @@ stash -pull - stash apply- add -commit -push
 
 ### Önálló feladatok
 * Idézz elő a fent leírt módon egy conflict -ot és oldd fel tetszés szerint.
+## Teszt DA 
+- tezstelem a git status parancsot 
+- teszt a commit parancsra
+- teszt git add .
+- teszt git push 
