@@ -8,3 +8,4 @@ Git course for Auchan employees.
 - tezstelem a git status parancsot 
 - teszt a commit parancsra
 - teszt git add .
+- teszt git push 
