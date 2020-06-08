@@ -7,3 +7,4 @@ Git course for Auchan employees.
 ## Teszt DA 
 - tezstelem a git status parancsot 
 - teszt a commit parancsra
+- teszt git add .
