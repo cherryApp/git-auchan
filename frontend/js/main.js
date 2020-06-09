@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 const menu = document.querySelector("#menu");
 
+=======
+const emptyArray =[];
+>>>>>>> development
 const menuItems = [
     { 
         link: "/", 
