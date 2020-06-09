@@ -1,3 +1,4 @@
+const emptyArray =[];
 const menuItems = [
     { 
         link: "/", 
